@@ -5,6 +5,11 @@ public class Predmet {
     private int sifra=0;
     private int maxbrstudenata=0;
     private Student[] nizStudenata=null;
+
+    public int getBrojStudenata() {
+        return brojStudenata;
+    }
+
     private int brojStudenata=0;
 
     public Predmet(String n, int s, int br){
