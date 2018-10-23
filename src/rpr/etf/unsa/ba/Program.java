@@ -1,4 +1,4 @@
-package com.amila;
+package rpr.etf.unsa.ba;
 
 import java.util.Scanner;
 
