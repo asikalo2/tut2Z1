@@ -1,4 +1,4 @@
-package rpr.etf.unsa.ba;
+package ba.unsa.etf.rpr;
 
 public class Predmet {
     private String naziv="Nepostojeci predmet";

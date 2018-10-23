@@ -1,4 +1,4 @@
-package rpr.etf.unsa.ba;
+package ba.unsa.etf.rpr;
 
 import java.util.Scanner;
 
