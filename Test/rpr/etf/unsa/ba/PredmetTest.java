@@ -44,6 +44,8 @@ class PredmetTest {
 
     @Test
     void setSifra() {
+        predmet.setSifra(2561);
+        assertEquals(2561, predmet.getSifra());
 
     }
 
